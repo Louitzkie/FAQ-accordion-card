@@ -1,0 +1,16 @@
+{
+  "name": "faq-accordion-card-main",
+  "version": "1.0.0",
+  "description": "responsive faq-accordion",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "author": "Louis Andrie Cruz",
+  "license": "ISC"
+}
